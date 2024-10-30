@@ -6,7 +6,7 @@ O projeto foi dividido em dois repositórios, sendo esse aqui para o **front-end
 
 ## Introdução
 
-[Capadura](http://capadura.io) é uma ferramenta onde os leitores podem compartilhar avaliações de livros, fazer comentários durante a leitura e descobrir novos livros.
+[Capadura](https://capadura.vercel.app) é uma ferramenta onde os leitores podem compartilhar avaliações de livros, fazer comentários durante a leitura e descobrir novos livros.
 
 ## 🤖 Tech stack
 

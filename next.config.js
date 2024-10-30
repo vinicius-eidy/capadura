@@ -18,7 +18,7 @@ const nextConfig = {
             },
             {
                 protocol: "https",
-                hostname: "www.capadura.io",
+                hostname: "capadura.vercel.app",
                 port: "",
             },
         ],
